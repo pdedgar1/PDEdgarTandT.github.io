@@ -4,7 +4,11 @@ Get to know PD, a student at UCF's Texts &amp; Tech PhD program!
 <img src="assets/PDEdgarHeadshot24.png" height="200">
 
 # P.D. Edgar
-### Trustees Doctoral Fellow, Texts & Technology PhD Program, University of Central Florida
+Trustees Doctoral Fellow
+
+Texts & Technology PhD Program
+
+University of Central Florida
 
 ## About Me
 P.D. Edgar has an MFA and a master’s in media studies from the U. of Alabama, where he was Art & Design Editor of Black Warrior Review. He’s now a Ph.D. student in Texts and Technology at the U. of Central Florida, where he studies poetry culture and electronic literature. PD grew up between Managua, Nicaragua, and Central Florida, and is a Freelance Typesetter and Graphic Designer that assists in the publication of graphic novel, literary magazine, and poetry chapbook publications. For more, [visit my CV](pages/My-CV.md)
