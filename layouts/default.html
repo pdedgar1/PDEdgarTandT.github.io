@@ -43,6 +43,15 @@
         {% endif %}
       </header>
 
+      <nav class="sidebar">
+        <ul>
+          <li><a href="{{ 'freelance/index.md' | relative_url }}">Freelancer</a></li>
+          <li><a href="{{ 'projects/index.md' | relative_url }}">Projects</a></li>
+          <li><a href="{{ 'teaching/index.md' | relative_url }}">Teaching</a></li>
+        </ul>
+      </nav>
+      
+
       <section>
         {{ content }}
       </section>
