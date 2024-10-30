@@ -1,7 +1,7 @@
 # PDEdgarTandT
 Get to know PD, a student at UCF's Texts &amp; Tech PhD program! 
 
-![FeaturedImage](/assets/PDEdgarHeadshot24.jpg)
+<img src="assets/PDEdgarHeadshot24.png" height="200">
 
 # P.D. Edgar
 ### Trustees Doctoral Fellow, Texts & Technology PhD Program, University of Central Florida
