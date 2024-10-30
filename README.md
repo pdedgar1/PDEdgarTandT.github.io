@@ -1,3 +1,8 @@
+---
+layout: default
+title: P.D. Home
+---
+
 # PD Edgar, Texts and Technology Student
 Get to know PD, a student at UCF's Texts &amp; Tech PhD program! 
 
