@@ -26,7 +26,7 @@ P.D. Edgar has an MFA and a master’s in media studies from the U. of Alabama, 
 - “ChatGPoeT: Coaching AI & Poetic Forms” | Digitorium - University of Alabama Digital Humanities Conference, 2024
 - “‘The Only Character is an Old Woman, Fiercely Alive’: How Ms. Magazine’s Poetry Shaped What ‘Liberation’ Looked Like” | American Journalism Historians Association, Southeast Symposium, 2023
 
-## Editorial Experience 
+## Editorial Experience [+ Freelancing](freelance/index.md)
 - *College Composition and Communication* : Editorial Assistant
 - [*re•mediate* Literary Magazine](https://remediatelitmag.xyz) : Founding Editor
 - [*Kenyon Review*](https://kenyonreview.org) : Digital Archive Associate
