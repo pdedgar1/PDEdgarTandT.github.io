@@ -12,8 +12,7 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     {% include head-custom.html %}
-  </head>
-  
+  </head> 
   <body>
     <div class="wrapper">
       <header>
@@ -38,14 +37,6 @@
           </ul>
         {% endif %}
       </header>
-
- <nav class="sidebar">
-        <ul>
-          <li><a href="{{ 'freelance/index.md' | relative_url }}">Page 1</a></li>
-          <li><a href="{{ 'teaching/index.md' | relative_url }}">Page 2</a></li>
-          <li><a href="{{ 'projects/index.md' | relative_url }}">Page 3</a></li>
-        </ul>
-      </nav>
       
       <section>
         {{ content }}
