@@ -4,15 +4,15 @@
 
 ## M.F.A. Creative Writing : University of Alabama, Tuscaloosa, AL 
 
-### Thesis *"Dispatches from the Mission House : Scriptures of an Ex-MK"*
+#### Thesis *"Dispatches from the Mission House : Scriptures of an Ex-MK"*
 
 ## M.A. Journalism & Media Studies : University of Alabama, Tuscaloosa, AL
 
-### Winner of Outstanding Graduate Journalism Thesis Award*: "their concept of beauty / is manufactured / i am not -rupi kaur": How Remediation Theory Reconciles Instapoetry's Genre, Branded Authenticities, and Critical Positionality*
+#### Winner of Outstanding Graduate Journalism Thesis Award*: "their concept of beauty / is manufactured / i am not -rupi kaur": How Remediation Theory Reconciles Instapoetry's Genre, Branded Authenticities, and Critical Positionality*
 
 ## B.A. Florida Southern College, Lakeland, FL
 
-### Majors in English: Writing \| Communications: Multimedia Journalism \| Spanish
+#### Majors in English: Writing \| Communications: Multimedia Journalism \| Spanish
 
 # Research Interests
 
@@ -26,8 +26,8 @@ Creative Writing (Pedagogy, Poetry & Nonfiction)
 
 ### Reviews
 
--   "[*[The Kenyon Review's]{.underline}* [2024 Summer Reading
-    Recommendations]{.underline}](https://kenyonreview.org/2024/05/2024-summer-reading-recommendations/)":
+-   "*The Kenyon Review's* [2024 Summer Reading
+    Recommendations](https://kenyonreview.org/2024/05/2024-summer-reading-recommendations/)":
     *Our Air* by Nora Treatbaby - May 2024
 
 ### Poems
@@ -35,15 +35,15 @@ Creative Writing (Pedagogy, Poetry & Nonfiction)
 -   "Daddy," "Indifferent Dog," and "Too much has happened---" printed
     in *Dogboy Zine* - June 2023
 
--   ["A roundabout way of saying 'Se Busca Asesino']{.underline}," in
+-   ["A roundabout way of saying 'Se Busca Asesino'](https://ghostproposal.com/PD-Edgar)," in
     *Ghost Proposal* Issue 13 - March 20, 2023
 
--   "[[At least 18 photos of
-    fish]{.underline}](https://www.ekphrastic.net/the-ekphrastic-review/at-least-18-photos-of-fish-by-p-d-edgar),"
+-   "[At least 18 photos of
+    fish](https://www.ekphrastic.net/the-ekphrastic-review/at-least-18-photos-of-fish-by-p-d-edgar),"
     in *Ekphrastic Review* - Apr 9, 2022
 
--   "[[Ghazal for
-    Arjeet]{.underline}](https://www.aipf.org/corona-virus-anthology.html),"
+-   "[Ghazal for
+    Arjeet](https://www.aipf.org/corona-virus-anthology.html),"
     in Going Viral, Austin Poets International's CoronaVirus Anthology -
     2020
 
@@ -51,11 +51,11 @@ Creative Writing (Pedagogy, Poetry & Nonfiction)
 
 ### College *[Composition and Communication]{.underline}*, Editorial Assistantship-2024 - 2025 
 
-### *[re•mediate]{.underline}*, literary magazine Founding Editor, Issue-0 Launched Aug. 1, 2024
+### [*re•mediate*](https://remediatelitmag.xyz/), literary magazine Founding Editor, Issue-0 Launched Aug. 1, 2024
 
-### *[Kenyon Review]{.underline}*, literary magazine, Kenyon College, Ohio Digital Archive Associate
+### *Kenyon Review*, literary magazine, Kenyon College, Ohio Digital Archive Associate
 
-### *[Black Warrior Review]{.underline}*, graduate-run literary magazine, Univ. of Alabama Art & Design Editor, Issues 48.2, 49.1, 49.2, 50.1, and 50.2
+### [*Black Warrior Review*](https://bwr.ua.edu/), graduate-run literary magazine, Univ. of Alabama Art & Design Editor, Issues 48.2, 49.1, 49.2, 50.1, and 50.2
 
 ### 
 
@@ -67,13 +67,13 @@ Creative Writing (Pedagogy, Poetry & Nonfiction)
 
 -   ""Crisis" as a Catalyzing, Generative Program in Writing Classrooms
 
-### [[Florida College]{.underline} English [Association]{.underline}](https://fcea.online) Conference
+### [Florida College English Association](https://fcea.online) Conference
 
 -   "Docupoetics in 360: Experiments in Place-Memory as/in Virtual
     Reality"
 
 -   "I Think We're Getting Slobs": Americentric Bias in The Ugly
-    American-
+    American"
 
 ### [Digitorium]{.underline} - University of Alabama Digital Humanities Conference, Tuscaloosa, AL
 
@@ -100,8 +100,6 @@ Creative Writing (Pedagogy, Poetry & Nonfiction)
 -   "On to Avalon": The History of Avalon Groves (with the McKay
     Archives Center)
 
-## 
-
 ## Invited Talks 
 
 -   [Alabama Scholastic Press Association]{.underline} "Lit Mags For
@@ -110,7 +108,7 @@ Creative Writing (Pedagogy, Poetry & Nonfiction)
 
 -   [Lit]{.underline} Mag [Reading Club Chat with the Editors
     of]{.underline} [*[Black Warrior
-    Review]{.underline}*](https://litmagnews.substack.com/p/send-the-strangest-thing-you-have),
+    Review*](https://litmagnews.substack.com/p/send-the-strangest-thing-you-have),
     *Lit Mag News*
 
 -   Writing Center Tutor Training Week, University of Alabama, by
@@ -129,29 +127,28 @@ Creative Writing (Pedagogy, Poetry & Nonfiction)
 
 ## Programmed Readings of Creative Writing
 
--   MFA Creative Writing [[Graduating Student
-    Readings]{.underline}](https://www.instagram.com/p/C5V8lteOL8R/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+-   MFA Creative Writing [Graduating Student
+    Readings](https://www.instagram.com/p/C5V8lteOL8R/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
     (Sella Granata Gallery, U.Alabama)
 
--   [Night of the Aesthetes]{.underline}, mixed media showcase (Sella
+-   *Night of the Aesthetes*, mixed media showcase (Sella
     Granata Gallery, U.Alabama)
 
--   Poets vs. Prose Fall Classic (Burrell Odom Park, Tuscaloosa, AL)
+-   *Poets vs. Prose Fall Classic* (Burrell Odom Park, Tuscaloosa, AL)
 
--   Pure Products Reading @ the Kathryn Tucker Windham Storytelling
-    Tent\
-    (52nd Annual Kentuck Arts Festival, Northport, Alabama)
+-   *Pure Products* Reading @ the Kathryn Tucker Windham Storytelling
+    Tent (52nd Annual Kentuck Arts Festival, Northport, Alabama)
 
--   Upperclass [[Student
-    Reading]{.underline}](https://www.instagram.com/p/CwvPSeuuqlc/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==),
+-   Upperclass [Student
+    Reading](https://www.instagram.com/p/CwvPSeuuqlc/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==),
     (Ora Mae Gallery, Holt, AL)
 
--   "[[A Reading of
-    Poetry]{.underline}](https://www.instagram.com/p/CrdnxBdODVE/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)"
+-   "[A Reading of
+    Poetry](https://www.instagram.com/p/CrdnxBdODVE/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)"
     (University of Alabama)
 
--   "[[American Idiots and International
-    Friends]{.underline}](https://www.instagram.com/p/ClZpY83ugoj/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)"
+-   "[American Idiots and International
+    Friends](https://www.instagram.com/p/ClZpY83ugoj/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)"
     (University of Alabama)
 
 -   Art Night, Turbo Coffee, Tuscaloosa, AL
@@ -205,26 +202,26 @@ Creative Writing (Pedagogy, Poetry & Nonfiction)
 -   Logistics Chair/Exhibition Committee, Electronic Literature
     Conference 2024, (Un)Linked, Electronic Literature Organization
 
--   [Graduating Student]{.underline} Reading Series (University of
+-   Graduating Student Reading Series (University of
     Alabama @ Sella-Granata Gallery)
 
 -   Visiting Student Week of Welcome Events (University of Alabama,
     Zoom)
 
--   "[[Pride &
-    Joy]{.underline}](https://www.instagram.com/p/CljGUf8OiiR/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)"
+-   "[Pride &
+    Joy](https://www.instagram.com/p/CljGUf8OiiR/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)"
     Reading (at Turbo Coffee Tuscaloosa)
 
--   [First-Year]{.underline} Reading Series (at University of Alabama,
+-   First-Year Reading Series (at University of Alabama,
     Sella Granata Gallery)
 
--   [Second-Year]{.underline} Reading Series (at Turbo Coffee
+-   Second-Year Reading Series (at Turbo Coffee
     Tuscaloosa)
 
 -   "InDesign & The Creative Writer Studio Sessions," University of
     Alabama, 4 sessions
 
--   [Biannual MFA Clothing Swap]{.underline} & Donation Drive
+-   Biannual MFA Clothing Swap & Donation Drive
 
 ## Master of Ceremonies
 
@@ -246,8 +243,8 @@ Creative Writing (Pedagogy, Poetry & Nonfiction)
 -   Presentation Fellowship, UCF Graduate School - Funding to attend
     FCEA Conference, 2024
 
--   2024-2028 [[Trustees Doctoral
-    Fellowship]{.underline}](https://graduate.ucf.edu/meet-our-fellows/) -
+-   2024-2028 [Trustees Doctoral
+    Fellowship](https://graduate.ucf.edu/meet-our-fellows/) -
     4-years full funding for Ph.D. program.
 
 -   Summer 2024 Summer Mentoring Fellowship - Project-based program
@@ -401,19 +398,19 @@ Wordpress
 
 ## Print Layout Design, Publications & Creative Projects
 
--   Manuscript Layout W. artist Kalie Boyne to print graphic novel [*[My
-    World Belongs To Me]{.underline}*](https://www.kalieboyne.com/books)
+-   Manuscript Layout W. artist Kalie Boyne to print graphic novel [*My
+    World Belongs To Me*](https://www.kalieboyne.com/books)
 
--   Manuscript Layout W. poet [[Kwoya Fagin
-    Maples]{.underline}](https://www.kalieboyne.com/books) to lay out
+-   Manuscript Layout W. poet [Kwoya Fagin
+    Maples](https://www.kalieboyne.com/books) to lay out
     section of poetry manuscript
 
 -   Illustrated Map Design W. nonfiction writer Kathryn Fitzpatrick's
     manuscript, hand-drawn map of CT
 
--   Chapbook Layout W. poet Marzetta to layout [[design print book
-    collection]{.underline} *[The
-    Garden]{.underline}*](https://www.amazon.com/Garden-Marzetta-ebook/dp/B0B5KTK9BP)
+-   Chapbook Layout W. poet Marzetta to layout [design print book
+    collection [*The
+    Garden*](https://www.amazon.com/Garden-Marzetta-ebook/dp/B0B5KTK9BP)
 
 -   Poetry Commission For Fiverr clients, formatted lines of poetry into
     concrete shapes
