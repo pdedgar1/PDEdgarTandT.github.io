@@ -1,4 +1,4 @@
-# PDEdgarTandT
+# PD Edgar, Texts and Technology Student
 Get to know PD, a student at UCF's Texts &amp; Tech PhD program! 
 
 <img src="assets/PDEdgarHeadshot24.png" height="200">
