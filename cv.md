@@ -1,3 +1,8 @@
+---
+layout: default
+title: P.D. Edgar's CV
+---
+
 # Education
 
 ## Ph.D. Texts & Technology University of Central Florida, Orlando, FL 
