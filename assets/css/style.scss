@@ -1,32 +1,42 @@
 ---
 ---
+
 @import "jekyll-theme-dinky";
+
+.wrapper {
+  display: flex;
+  flex-direction: row;
+}
+
+.content {
+  flex-grow: 1;
+  margin-right: 20px; /* Space between content and sidebar */
+}
 
 .sidebar {
   background-color: #52804C;
   padding: 15px;
-  margin-bottom: 20px;
-
+  width: 200px; /* Set a fixed width for the sidebar */
   ul {
     list-style: none;
     padding: 0;
 
     li {
       margin: 10px 0;
-    }
 
-    a {
-      color: #ececec;
-      text-decoration: none;
+      a {
+        text-decoration: none;
+        color: #ececec; /* Dark color for the links */
 
-      &:hover {
-        color: #007acc;
-        text-decoration: underline;
+        &:hover {
+          text-decoration: underline;
+          color: #007acc; /* Highlight color when links are hovered over */
+        }
       }
     }
   }
 }
 
 body {
-  background-color: #E2F2E0; /* Light background color for the entire site */
+  background-color: #E2F2E0; /* Light gray background */
 }
