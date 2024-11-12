@@ -1,48 +1,32 @@
 ---
 ---
-
 @import "jekyll-theme-dinky";
 
 .sidebar {
-    background-color: #4d703d; /* Light gray background for distinction */
-    padding: 15px;
-    margin-bottom: 20px;
-  }
-  
-  .sidebar ul {
+  background-color: #52804C;
+  padding: 15px;
+  margin-bottom: 20px;
+
+  ul {
     list-style: none;
     padding: 0;
+
+    li {
+      margin: 10px 0;
+    }
+
+    a {
+      color: #ececec;
+      text-decoration: none;
+
+      &:hover {
+        color: #007acc;
+        text-decoration: underline;
+      }
+    }
   }
-  
-  .sidebar ul li {
-    margin: 10px 0;
-  }
-  
-  .sidebar ul li a {
-    text-decoration: none;
-    color: #ececec; /* Dark color for the links */
-  }
-  
-  .sidebar ul li a:hover {
-    text-decoration: underline;
-  }
-  
-  body {
-    background-color: #E2F2E0; /* Light gray background */
 }
 
-
-.sidebar {
-  background-color: #52804C; /* Light gray for the sidebar background */
-  padding: 15px;
-}
-
-.sidebar a {
-  color: #eeeeee; /* Default color for links in the sidebar */
-  text-decoration: none;
-}
-
-.sidebar a:hover {
-  color: #007acc; /* Highlight color when links are hovered over */
-  text-decoration: underline;
+body {
+  background-color: #E2F2E0; /* Light background color for the entire site */
 }
