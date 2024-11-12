@@ -8,11 +8,11 @@ title: Freelance Work
 ## Creative Projects 
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
-    <h2> <i>My World Belongs To Me</i>, by Kalie Boyne</h2>
+    <h3> <i>My World Belongs To Me</i>, by Kalie Boyne</h2>
     
-   <ul>
-    <li> Graphic Novel</li>
-    <li> Hardcover, Softcover, PDF versions</li>
+<ul>
+     <li> Graphic Novel</li>
+     <li> Hardcover, Softcover, PDF versions</li>
      <li> Interior Design, Cover Composition</li>
      <li> Multiple Iterations </li>
 </ul>
@@ -24,7 +24,7 @@ title: Freelance Work
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
 
-<h2> <i>The Garden</i>, by Marzetta </h2>
+<h3> <i>The Garden</i>, by Marzetta </h2>
 
 <ul>
    <li> Poetry Chapbook
@@ -32,8 +32,8 @@ title: Freelance Work
     <li> Interior Design
 </ul>
     
-
 <h2> Successful Applications and Personal Statements </h2>
+
 <ul> 
     <li>  Graduate School </li>
     <li> Law School </li>
@@ -42,4 +42,3 @@ title: Freelance Work
     <li> Physical Therapy School </li>
 </ul>
 
-</div>
