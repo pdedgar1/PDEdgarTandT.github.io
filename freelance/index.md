@@ -41,5 +41,6 @@ title: Freelance Work
     <li>   Dental School </li>
     <li> Medical School </li>
     <li> Physical Therapy School </li>
+  
 </ul>
 
