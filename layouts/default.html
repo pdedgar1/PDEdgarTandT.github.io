@@ -19,10 +19,12 @@
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
 
-        <ul><a href="{{ https://pdedgar1.github.io/PDEdgarTandT.github.io/freelance/ }}">Freelancer</a></ul>
-        <ul><a href="{{ https://pdedgar1.github.io/PDEdgarTandT.github.io/projects/ }}">Projects</a></ul>
-        <ul><a href="{{ https://pdedgar1.github.io/PDEdgarTandT.github.io/teaching/ }}">Teaching</a></ul>
-
+        <ul>
+          <li><a href="https://pdedgar1.github.io/PDEdgarTandT.github.io/freelance/">Freelancer</a></li>
+          <li><a href="https://pdedgar1.github.io/PDEdgarTandT.github.io/projects/">Projects</a></li>
+          <li><a href="https://pdedgar1.github.io/PDEdgarTandT.github.io/teaching/">Teaching</a></li>
+        </ul>
+        
         <ul>
           {% if site.show_downloads %}
             <li class="download"><a class="buttons" href="{{ site.github.zip_url }}">Download ZIP</a></li>
