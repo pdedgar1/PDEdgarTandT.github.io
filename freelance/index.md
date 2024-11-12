@@ -27,9 +27,10 @@ title: Freelance Work
 <h3> <i>The Garden</i>, by Marzetta </h3>
 
 <ul>
-  <li> Poetry Chapbook
-  <li> Ebook and Print-on-Demand preparation 
-  <li> Interior Design
+    <li> Poetry Chapbook
+    <li> Ebook and Print-on-Demand preparation 
+    <li> Interior Design
+    
 </ul>
     
 <h2> Successful Applications and Personal Statements </h2>
