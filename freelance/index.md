@@ -35,8 +35,5 @@ title: Freelance Work
           <li> Dental School </li>
           <li> Medical School </li>
           <li> Physical Therapy School </li>
-  </div>
-</div>
 
-#### [Freelancing](freelance/index.md) | [(Research)](projects/index.md) | [Teaching](teaching/index.md)
 
