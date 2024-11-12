@@ -8,30 +8,37 @@ title: Freelance Work
 ## Creative Projects 
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
-    ### *My World Belongs To Me*, by Kalie Boyne
-    - Graphic Novel
-    - Hardcover, Softcover, PDF versions
-    - Interior Design, Cover Composition
-    - Multiple Iterations 
-
-    >
-
-    ### *The Garden*, by Marzetta 
-    - Poetry Chapbook
-    - Ebook and Print-on-Demand preparation 
-    - Interior Design
-
-    > 
-
-    ## Successful Applications and Personal Statements
-    - Graduate School
-    - Law School
-    - Dental School
-    - Medical School
-    - Physical Therapy School
-  </div>
+    <h2> <i>My World Belongs To Me</i>, by Kalie Boyne</h2>
+    
+   <ul>
+    <li> Graphic Novel</li>
+    <li> Hardcover, Softcover, PDF versions</li>
+     <li> Interior Design, Cover Composition</li>
+     <li> Multiple Iterations </li>
+</ul>
 
   <div style="flex: 0 0 auto; margin-left: 20px;">
     <img src="{{ '/assets/MWBTM.png' | relative_url }}" alt="My World Belongs To Me Cover" style="width: 200px; height: auto;">
   </div>
+
+
+<h2> <i>The Garden</i>, by Marzetta </h2>
+
+<ul>
+   <li> Poetry Chapbook
+    <li> Ebook and Print-on-Demand preparation 
+    <li> Interior Design
+</ul>
+    
+
+<h2> Successful Applications and Personal Statements </h2>
+<ul> 
+    <li>  Graduate School </li>
+    <li> Law School </li>
+    <li>   Dental School </li>
+    <li> Medical School </li>
+    <li> Physical Therapy School </li>
+  </div>
+
+
 </div>
