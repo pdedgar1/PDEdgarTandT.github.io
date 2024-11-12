@@ -8,7 +8,7 @@ title: Freelance Work
 ## Creative Projects 
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
-    <h3> <i>My World Belongs To Me</i>, by Kalie Boyne</h2>
+    <h3> <i>My World Belongs To Me</i>, by Kalie Boyne </h3>
     
 <ul>
      <li> Graphic Novel</li>
@@ -24,7 +24,7 @@ title: Freelance Work
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
 
-<h3> <i>The Garden</i>, by Marzetta </h2>
+<h3> <i>The Garden</i>, by Marzetta </h3>
 
 <ul>
   <li> Poetry Chapbook
