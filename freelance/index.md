@@ -37,3 +37,4 @@ title: Freelance Work
           <li> Physical Therapy School </li>
 
 
+#### [Freelancing](freelance/index.md) | [(Research)](projects/index.md) | [Teaching](teaching/index.md)
