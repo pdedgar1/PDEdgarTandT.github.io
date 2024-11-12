@@ -41,4 +41,5 @@ title: Freelance Work
       <li> Medical School </li>
       <li> Physical Therapy School </li>
   </ul>
-
+  </div>
+</div>
