@@ -43,3 +43,5 @@ P.D. Edgar has an MFA and a master’s in media studies from the U. of Alabama, 
 ### Follow Me!
 
 [Bluesky](https://bsky.app/profile/pdedgar30.bsky.social) - [Instagram](https://www.instagram.com/pdedgar30/) - [Twitter](https://x.com/PDEdgar30) - [LinkedIn](https://www.linkedin.com/in/p-d-edgar/)
+
+#### [Freelancing](freelance/index.md) | [(Research)](projects/index.md) | [Teaching](teaching/index.md)
