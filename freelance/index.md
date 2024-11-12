@@ -38,4 +38,5 @@ title: Freelance Work
   </div>
 </div>
 
+#### [Freelancing](freelance/index.md) | [(Research)](projects/index.md) | [Teaching](teaching/index.md)
 

@@ -19,3 +19,6 @@ title: Projects
 - How can I get to know my extended family/ancestors through the artifacts they discard?
 - What is a missionary kid, and who do they become after they leave their parents' mission field?
 - How are computers at the heart of so much Creative Writing Practice, and how do we platform that? 
+
+
+#### [Freelancing](freelance/index.md) | [(Research)](projects/index.md) | [Teaching](teaching/index.md)

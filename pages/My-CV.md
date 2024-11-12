@@ -189,3 +189,5 @@ Learner: html, CSS, Python, Twine
 - BeReal
 - Tumblr
 - Facebook
+
+#### [Freelancing](freelance/index.md) | [(Research)](projects/index.md) | [Teaching](teaching/index.md)

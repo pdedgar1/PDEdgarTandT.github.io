@@ -24,8 +24,6 @@ title: Teaching Experience
 - National Crisis > Researched Essay > Expert Interview
 - Crisis of the Week Presentation > Oral Argument
 
->
-
 ## Creative Writing @ The University of Alabama
 ### 205: Introduction to Creative Writing 
 - Poetry, Short Fiction, Creative Nonfiction
@@ -33,12 +31,11 @@ title: Teaching Experience
 - Focus on Experimental Forms
 - Experiments in Various Peer Review Styles
 
->
-
 ### 308: Creative Nonfiction Workshop 
 - Short Personal Essay
 - Profile Essay - Scenes, Dialogue, Interview
 - Braided Essay - Narrative Leap, Triangulation
 - Nonfiction Poem - Poetry of Witness, Found Poems
 
->
+
+#### [Freelancing](freelance/index.md) | [(Research)](projects/index.md) | [Teaching](teaching/index.md)
