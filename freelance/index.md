@@ -21,6 +21,8 @@ title: Freelance Work
     <img src="{{ '/assets/MWBTM.png' | relative_url }}" alt="My World Belongs To Me Cover" style="width: 200px; height: auto;">
   </div>
 
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
 
 <h2> <i>The Garden</i>, by Marzetta </h2>
 
@@ -38,7 +40,6 @@ title: Freelance Work
     <li>   Dental School </li>
     <li> Medical School </li>
     <li> Physical Therapy School </li>
-  </div>
-
+</ul>
 
 </div>
