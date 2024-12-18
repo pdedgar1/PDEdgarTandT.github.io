@@ -1,10 +1,10 @@
 // Navigation items
 const navigation = [
-    { title: "Home", url: "https://pdedgar1.github.io/PDEdgarTandT.github.io/index.html" },
-    { title: "Teaching", url: "https://pdedgar1.github.io/PDEdgarTandT.github.io/teaching.html" },
-    { title: "Research", url: "https://pdedgar1.github.io/PDEdgarTandT.github.io/research.html" },
-    { title: "Writing", url: "https://pdedgar1.github.io/PDEdgarTandT.github.io/writing.html" },
-    { title: "Freelance", url: "https://pdedgar1.github.io/PDEdgarTandT.github.io//freelance.html" },
+    { title: "Home", url: "/index.html" },
+    { title: "Teaching", url: "/teaching/index.html" },
+    { title: "Research", url: "/research/index.html" },
+    { title: "Writing", url: "/writing/index.html" },
+    { title: "Freelance", url: "/freelance/index.html" },
 ];
 
 // Get the toolbar element
