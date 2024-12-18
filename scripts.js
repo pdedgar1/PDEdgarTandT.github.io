@@ -1,10 +1,10 @@
 // Navigation items
 const navigation = [
-    { title: "Home", url: "/index.html" },
-    { title: "Teaching", url: "/teaching/index.html" },
-    { title: "Research", url: "/research/index.html" },
-    { title: "Writing", url: "/writing/index.html" },
-    { title: "Freelance", url: "/freelance/index.html" },
+    { title: "Home", url: "../index.html" },
+    { title: "Teaching", url: "./teaching/index.html" },
+    { title: "Research", url: "./research/index.html" },
+    { title: "Writing", url: "./writing/index.html" },
+    { title: "Freelance", url: "./freelance/index.html" },
 ];
 
 // Get the toolbar element
