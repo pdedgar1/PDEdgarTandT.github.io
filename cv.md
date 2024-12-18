@@ -1,7 +1,3 @@
----
-layout: default
-title: P.D. Edgar's CV
----
 
 # Education
 
@@ -423,25 +419,17 @@ Wordpress
 ## Copy Editing, Higher Education Admissions/Activities (Names Abbreviated for Privacy)
 
 -   As.Ti. - Medical School Applications & Secondaries, June-August 2024
-    (pending)
-
+    (admitted)
 -   Ar.Ti. - Dental School Graduation Speech, May 2024 (delivered)
-
 -   Ca.Th. - Law School Applications, 2023 Cycle (admitted & waitlisted,
     accepted offer)
-
 -   Ca.Th. - Law School Applications, 2022 Cycle (admitted & waitlisted,
     deferred admission)
-
 -   Ca.Wh. - Master's Program Application, 2023 Cycle (admitted,
     deferred admission)
-
 -   Ma.Ga. - P.T. School Applications, 2022 Cycle (admitted to two
     schools)
-
 -   Sp.As. - Medical School Applications, 2021 Cycle (admitted)
-
 -   Mo.Mc. - Fulbright ETA Application (awarded upon later submission)
-
 -   Ar.Ti. - Dental School Applications, 2019 Cycle (admitted to two
     schools)
