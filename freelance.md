@@ -1,7 +1,3 @@
----
-layout: default
-title: Freelance Work
----
 
 # Freelance Editing 
 
@@ -36,4 +32,3 @@ title: Freelance Work
           <li> Medical School </li>
           <li> Physical Therapy School </li>
       </ul>
-

@@ -1,0 +1,62 @@
+/* General body styling */
+body {
+  font-family: 'Playfair Display', serif;
+  color: black;
+  background-color: #f4f7f4; /* Off-gray with green tint */
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: flex-start;
+}
+
+/* Toolbar styling */
+.toolbar {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-family: 'Playfair Display', serif;
+  font-variant: small-caps;
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+}
+
+.toolbar li {
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.toolbar li a {
+  text-decoration: none;
+  color: black;
+  transition: color 0.3s ease;
+}
+
+.toolbar li a:hover {
+  color: darkgreen;
+}
+
+/* Text content styling */
+.text-content {
+  padding: 10px;
+  margin-left: 120px; /* Leave space for the toolbar */
+  max-width: 800px;
+}
+
+/* Image styling */
+img {
+  border: 4px solid white;
+  border-radius: 8px;
+  display: block;
+  margin: 20px auto;
+}
+
+/* Headers styling */
+h1, h2, h3, h4, h5, h6 {
+  text-transform: uppercase;
+  font-family: 'Playfair Display', serif;
+  margin-bottom: 20px;
+}
