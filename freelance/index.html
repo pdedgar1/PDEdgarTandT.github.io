@@ -1,47 +1,143 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Website</title>
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="styles.css">
-    <script src="scripts.js" defer></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Freelance — P.D. Edgar</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;700&family=Playfair+Display:ital,wght@0,700;0,900;1,400;1,700;1,900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
 </head>
 <body>
-    <ul class="toolbar" id="toolbar"></ul>
-    <div class="text-content">
-        <h1>Freelance Editing</h1>
-        <h2>Creative Projects</h2>
-        <div style="display: flex; align-items: flex-start;">
-            <div style="flex: 1;">
-                <h3><em>My World Belongs To Me</em>, by Kalie Boyne</h3>
-                <ul>
-                    <li>Graphic Novel</li>
-                    <li>Hardcover, Softcover, PDF versions</li>
-                    <li>Interior Design, Cover Composition</li>
-                    <li>Multiple Iterations</li>
-                </ul>
-            </div>
-        </div>
-        <div style="display: flex; align-items: flex-start;">
-            <div style="flex: 1;">
-                <h3><em>The Garden</em>, by Marzetta</h3>
-                <ul>
-                    <li>Poetry Chapbook</li>
-                    <li>Ebook and Print-on-Demand preparation</li>
-                    <li>Interior Design</li>
-                </ul>
-            </div>
-        </div>
-        <h2>Successful Applications and Personal Statements</h2>
-        <ul>
-            <li>Graduate School</li>
-            <li>Law School</li>
-            <li>Dental School</li>
-            <li>Medical School</li>
-            <li>Physical Therapy School</li>
-        </ul>
+
+  <header class="masthead">
+    <div class="masthead-inner">
+      <a href="/" class="site-pill">
+        <span class="site-name">P.D. Edgar</span>
+        <span class="site-sub">Ph.D. · Texts &amp; Technology · UCF</span>
+      </a>
+      <nav id="toolbar" class="masthead-nav" aria-label="Main navigation"></nav>
     </div>
+  </header>
+  <hr class="masthead-rule">
+
+  <main>
+
+    <header class="page-header">
+      <h1 class="page-title">Freelance</h1>
+      <p class="page-intro">Print Layout Design · Copy Editing · Admissions Consulting</p>
+    </header>
+
+    <!-- PRINT LAYOUT -->
+    <div class="section-head"><h2>Print Layout Design</h2></div>
+
+    <div class="project-card">
+      <h3><em>My World Belongs To Me</em> — Kalie Boyne</h3>
+      <span class="project-type">Graphic Novel · Print Layout</span>
+      <ul>
+        <li>Hardcover, softcover, and PDF versions</li>
+        <li>Interior design &amp; cover composition</li>
+        <li>Multiple production iterations</li>
+      </ul>
+    </div>
+
+    <div class="project-card">
+      <h3><em>The Garden</em> — Marzetta</h3>
+      <span class="project-type">Poetry Chapbook · Print Layout</span>
+      <ul>
+        <li>Ebook and print-on-demand preparation</li>
+        <li>Interior design</li>
+      </ul>
+    </div>
+
+    <div class="project-card">
+      <h3>Poetry Manuscript Section — Kwoya Fagin Maples</h3>
+      <span class="project-type">Poetry Manuscript · Layout</span>
+      <ul>
+        <li>Laid out section of full-length poetry manuscript</li>
+      </ul>
+    </div>
+
+    <div class="project-card">
+      <h3>Illustrated Map — Kathryn Fitzpatrick</h3>
+      <span class="project-type">Nonfiction Manuscript · Hand-Drawn Map</span>
+      <ul>
+        <li>Hand-drawn illustrated map of Connecticut for manuscript inclusion</li>
+      </ul>
+    </div>
+
+    <div class="project-card">
+      <h3>Concrete Poetry Commissions — Fiverr</h3>
+      <span class="project-type">Poetry · Typographic Design</span>
+      <ul>
+        <li>Formatted client-provided lines of poetry into concrete / visual shapes</li>
+      </ul>
+    </div>
+
+    <!-- COPY EDITING -->
+    <div class="section-head"><h2>Copy Editing — Higher Education Admissions</h2></div>
+
+    <p style="font-size:0.88rem; color:var(--mid); margin-bottom:1.25rem; font-family:'IBM Plex Mono',monospace; font-size:0.65rem; letter-spacing:0.04em;">
+      Names abbreviated for privacy. Outcomes listed where known.
+    </p>
+
+    <ul class="pub-list">
+      <li class="pub-entry">
+        <span class="pub-text">Be Zi. — Dental School Applications</span>
+        <span class="pub-date">Spring 2025 · admitted</span>
+      </li>
+      <li class="pub-entry">
+        <span class="pub-text">As Ti. — Medical School Applications &amp; Secondaries</span>
+        <span class="pub-date">June–Aug 2024 · accepted offer</span>
+      </li>
+      <li class="pub-entry">
+        <span class="pub-text">Ar Ti. — Dental School Graduation Speech</span>
+        <span class="pub-date">May 2024 · delivered</span>
+      </li>
+      <li class="pub-entry">
+        <span class="pub-text">Ca Th. — Law School Applications, 2023 Cycle</span>
+        <span class="pub-date">admitted &amp; waitlisted · accepted offer</span>
+      </li>
+      <li class="pub-entry">
+        <span class="pub-text">Ca Th. — Law School Applications, 2022 Cycle</span>
+        <span class="pub-date">admitted &amp; waitlisted · deferred</span>
+      </li>
+      <li class="pub-entry">
+        <span class="pub-text">Ca Wh. — Master's Program Application, 2023 Cycle</span>
+        <span class="pub-date">admitted · deferred</span>
+      </li>
+      <li class="pub-entry">
+        <span class="pub-text">Ma Ga. — Physical Therapy School Applications, 2022 Cycle</span>
+        <span class="pub-date">admitted to two schools</span>
+      </li>
+      <li class="pub-entry">
+        <span class="pub-text">Sp As. — Medical School Applications, 2021 Cycle</span>
+        <span class="pub-date">admitted</span>
+      </li>
+      <li class="pub-entry">
+        <span class="pub-text">Mo Mc. — Fulbright ETA Application</span>
+        <span class="pub-date">awarded upon later submission</span>
+      </li>
+      <li class="pub-entry">
+        <span class="pub-text">Ar Ti. — Dental School Applications, 2019 Cycle</span>
+        <span class="pub-date">admitted to two schools</span>
+      </li>
+    </ul>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <span class="footer-copy">&copy; 2026 P.D. Edgar</span>
+      <nav class="footer-links" aria-label="Footer links">
+        <a href="mailto:pe840191@ucf.edu">pe840191@ucf.edu</a>
+        <a href="https://remediatelitmag.xyz" target="_blank">re•mediate</a>
+        <a href="/cv/">Full CV</a>
+      </nav>
+    </div>
+  </footer>
+
+  <script src="/scripts.js" defer></script>
 </body>
 </html>

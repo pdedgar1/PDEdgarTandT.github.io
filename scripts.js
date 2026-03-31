@@ -1,21 +1,26 @@
-// Navigation items
+// Navigation items — uses root-relative paths for GitHub Pages / custom domain
 const navigation = [
-    { title: "Home", url: "../index.html" },
-    { title: "Teaching", url: "./teaching/index.html" },
-    { title: "Research", url: "./research/index.html" },
-    { title: "Writing", url: "./writing/index.html" },
-    { title: "Freelance", url: "./freelance/index.html" },
+  { title: "Home",      url: "/" },
+  { title: "CV",        url: "/cv/" },
+  { title: "Teaching",  url: "/teaching/" },
+  { title: "Research",  url: "/research/" },
+  { title: "Freelance", url: "/freelance/" },
 ];
 
-// Get the toolbar element
-const toolbar = document.getElementById('toolbar');
+const toolbar = document.getElementById("toolbar");
+if (toolbar) {
+  const path = window.location.pathname.replace(/\/index\.html$/, "/");
 
-// Generate navigation links
-navigation.forEach(item => {
-    const li = document.createElement('li');
-    const a = document.createElement('a');
-    a.href = item.url;
-    a.textContent = item.title;
-    li.appendChild(a);
-    toolbar.appendChild(li);
-});
+  navigation.forEach(({ title, url }) => {
+    const a = document.createElement("a");
+    a.href = url;
+    a.textContent = title;
+
+    // Mark active link
+    const isHome = url === "/" && (path === "/" || path === "");
+    const isActive = isHome || (url !== "/" && path.startsWith(url));
+    if (isActive) a.classList.add("active");
+
+    toolbar.appendChild(a);
+  });
+}
